@@ -9,18 +9,18 @@
 </p>  
 
 # Bangboy Userbot
-![Bangboy Userboto](https://telegra.ph/BANGBOY-USERBOT-04-14)
+![Bangboy Userbot](https://telegra.ph/file/1f2cf352c79c52c51b22a.jpg)
 
 <h3 align="center">Userbot Yang Digunakan Untuk Bersenang-Senang Di Telegram</h3>
 <p align="center">&nbsp;</p>
 
 ### Repo Lord Userbot
-Repo Yang Dibuat [BANGBOY](https://t.me/liualvinas) Dari Berbagai Repo Userbot Github 
+Repo Yang Dibuat [BANGBOY](https://t.me/lapendosID) Dari Berbagai Repo Userbot Github 
 
 
-### JOIN GROUP SUPPORT BANGBOY-USERBOT
+### CHANNEL SUPPORT BANGBOY-USERBOT
 
-Grup Support Bangboy-Userbot [TEKAN DISINI](https://t.me/lapendosID) Untuk Masuk Ke Grup Support
+CHANNEL Support Bangboy-Userbot [TEKAN DISINI](https://t.me/sakitbetdah) Untuk Masuk Ke Grup Support
 
 ## Bagaimana Cara Deploy?
 
