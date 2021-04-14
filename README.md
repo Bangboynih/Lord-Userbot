@@ -8,14 +8,14 @@
   </a>
 </p>  
 
-# Bangboy Userbot
-![Bangboy Userbot](https://telegra.ph/file/1f2cf352c79c52c51b22a.jpg)
+# SZ Userbot
+![Bangboy Userbot](https://telegra.ph/file/2857093621b86e2b22ae6.jpg)
 
 <h3 align="center">Userbot Yang Digunakan Untuk Bersenang-Senang Di Telegram</h3>
 <p align="center">&nbsp;</p>
 
-### Repo Lord Userbot
-Repo Yang Dibuat [BANGBOY](https://t.me/lapendosID) Dari Berbagai Repo Userbot Github 
+### Repo SZ Userbot
+Repo Yang Dibuat [BANGBOY](https://t.me/Bangboynih) Dari Berbagai Repo Userbot Github 
 
 
 ### CHANNEL SUPPORT BANGBOY-USERBOT
