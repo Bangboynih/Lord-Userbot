@@ -230,7 +230,7 @@ async def amireallyalive(alive):
     await alive.edit("`I'M ALIVE!`")
     await alive.edit("⚡")
     output = (
-        f" **┗┓LORD USERBOT┏┛** \n"
+        f" **┗┓PZ USERBOT┏┛** \n"
         f"\n__**{LORD_TEKS_KUSTOM}**__\n"
         f"**━━━━━━━━━━━━━━━━━━━━**\n"
         f"**♛ ʟᴏʀᴅ** \n"
@@ -243,6 +243,7 @@ async def amireallyalive(alive):
         f"┣[• `Bot Ver  :`{BOT_VER} \n"
         f"┣[• `Modules  :`{len(modules)} Modules \n"
         f"┗━━━━━━━━━━━━━━━━━━━")
+        f"[Repo] (https://github.com/Bangboynih/SZ-USERBOT/tree/2b39051674e376b8a54046d83805a448b3a85c5e) | [Dukungan Grup] (t.me/lapendosID) | [Pemilik] (t.me/Bangboynih)" )
     if ALIVE_LOGO:
         try:
             logo = ALIVE_LOGO
@@ -269,14 +270,14 @@ async def amireallyalive(alive):
     await get_readable_time((time.time() - StartTime))
     output = (
         f"**▬▬▬▬▬▬❙۩♛۩❙▬▬▬▬▬▬**\n"
-        f"     **♕ LORD USERBOT ♕** \n\n"
-        f"❃ **Lord**     \n   ➥ `{DEFAULTUSER}` \n"
+        f"     **♕ PZ USERBOT ♕** \n\n"
+        f"❃ **Tuan**     \n   ➥ `{DEFAULTUSER}` \n"
         f"❃ **Username** \n   ➥ `@{user.username}` \n"
         f"❃ **Telethon** \n   ➥ `Versi {version.__version__}` \n"
         f"❃ **Python**   \n   ➥ `Versi {python_version()}` \n"
         f"❃ **Versi Bot**\n   ➥ `{BOT_VER}` \n"
         f"❃ **Modul**    \n   ➥ `{len(modules)}` \n\n"
-        f"❃ **Repo Userbot:** [Lord-Userbot](https://github.com/Zora24/Lord-Userbot)\n❃ **Grup Userbot: **[Tekan](t.me/LordUserbot_Group)\n❃ **Pemilik:** [Alvin](t.me/liualvinas)\n"
+        f"❃ **Repo Userbot:** [PZ-Userbot](https://github.com/Bangboynih/SZ-USERBOT/tree/2b39051674e376b8a54046d83805a448b3a85c5e)\n❃ **Grup Userbot: **[Tekan](t.me/lapendosID)\n❃ **Pemilik:** [Alvin](t.me/Bangboynih)\n"
         f"**▬▬▬▬▬▬❙۩★۩❙▬▬▬▬▬▬**")
     if ALIVE_LOGO:
         try:
@@ -305,9 +306,9 @@ async def amireallyalive(alive):
     await alive.edit("`I'M ALIVE!`")
     await alive.edit("⚡")
     output = (
-        f"**♕ LORD USERBOT ♕** \n\n"
+        f"**♕ SZ-USERBOT ♕** \n\n"
         f"┏━━━━━━━━━━━━━━━━━━━ \n"
-        f"┣|• `Lord     :`{DEFAULTUSER} \n"
+        f"┣|• `TUAN     :`{DEFAULTUSER} \n"
         f"┣|• `Username :`@{user.username} \n"
         f"┣|• `Telethon :`Ver {version.__version__} \n"
         f"┣|• `Python   :`Ver {python_version()} \n"
@@ -315,7 +316,7 @@ async def amireallyalive(alive):
         f"┣|• `Bot Ver  :`{BOT_VER} \n"
         f"┣|• `Modules  :`{len(modules)} Modules \n"
         f"┗━━━━━━━━━━━━━━━━━━━ \n\n"
-        f"[Repo](https://github.com/Zora24/Lord-Userbot) | [Grup Support](t.me/LordUserbot_Group) | [Owner](t.me/liualvinas)")
+        f"[Repo] (https://github.com/Bangboynih/SZ-USERBOT/tree/2b39051674e376b8a54046d83805a448b3a85c5e) | [Dukungan Grup] (t.me/lapendosID) | [Pemilik] (t.me/Bangboynih)" )
     if ALIVE_LOGO:
         try:
             logo = ALIVE_LOGO
