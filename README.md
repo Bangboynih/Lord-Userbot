@@ -3,13 +3,13 @@
     <img src="https://img.shields.io/github/forks/Zora24/Lord-Userbot?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/Zora24/Lord-Userbot">
-    <img src="https://img.shields.io/github/stars/Zora24/Lord-Userbot?style=social">
+  <a href="https://github.com/Bangboynih/SZ-USERBOT">
+    <img src="https://img.shields.io/github/stars/Bangboynih/SZ-USERBOT?style=social">
   </a>
 </p>  
 
-# SZ Userbot
-![Bangboy Userbot](https://telegra.ph/file/2857093621b86e2b22ae6.jpg)
+# SZ USERBOT
+![SZ-USERBOT](https://telegra.ph/file/2857093621b86e2b22ae6.jpg)
 
 <h3 align="center">Userbot Yang Digunakan Untuk Bersenang-Senang Di Telegram</h3>
 <p align="center">&nbsp;</p>
@@ -18,9 +18,9 @@
 Repo Yang Dibuat [BANGBOY](https://t.me/Bangboynih) Dari Berbagai Repo Userbot Github 
 
 
-### CHANNEL SUPPORT BANGBOY-USERBOT
+### CHANNEL SUPPORT SZ-USERBOT
 
-CHANNEL Support Bangboy-Userbot [TEKAN DISINI](https://t.me/sakitbetdah) Untuk Masuk Ke Grup Support
+CHANNEL Support SZ-Userbot [TEKAN DISINI](https://t.me/sakitbetdah) Untuk Masuk Ke Grup Support
 
 ## Bagaimana Cara Deploy?
 
